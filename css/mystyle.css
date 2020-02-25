@@ -60,16 +60,16 @@
     position: relative;
     text-align: center;
     color: white;
-    margin-top: -630px;
+    margin-top: 130px;
     margin-left: 100px;
 
 
 }
 
-.wooden_horyzontal {
-    margin-left: -50%;
-    border: 2px solid white;
-    border-radius: 2px;
+.container_wooden_horyzontal {
+
+
+    background-image: url(../Images/Wooden_pattern_hoyzontal.webp);
 
 }
 
@@ -90,7 +90,7 @@
 .best_in_town {
     position: relative;
     margin-left: 38%;
-    margin-top: 3%;
+    margin-top: 30%;
 }
 
 

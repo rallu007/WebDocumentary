@@ -2,7 +2,7 @@
     font-family: urbane-rounded, sans-serif;
     font-weight: 300;
     font-style: normal;
-    background-image: url(../Images/background%2022.png);
+
 }
 
 
@@ -110,7 +110,11 @@
 }
 
 
-
+.wooden_horyzontal{
+ margin-left: -50%;
+    border: 2px solid white;
+    border-radius: 2px;
+}
 
 .container_horyzontal {
     position: relative;
